@@ -1,0 +1,50 @@
+html {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Yu Gothic';
+    background-size: cover;
+    background-repeat: none;
+    color: black;
+}
+head {
+    position: absolute;
+}
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 14px;
+    padding: 14px 10px;
+    list-style: none;
+}
+ul {
+    padding: 14px;
+    text-align: center;
+}
+#loginnavigation {
+    margin-left: 50rem;
+    text-align: right;
+}
+#signupnavigation {
+    text-align: right;
+}
+li {
+    list-style: none;
+    display: inline;
+}
+#navigationbar {
+    height: 50px;
+}
+#lampu {
+    position: absolute;
+    margin-top: -10rem;
+    width: 1000px;
+    height: 800px;
+}
+#klikdisini {
+    position: absolute;
+    font-size: 62px;
+    font-family: 'Rockwell';
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: 17.5rem 0 0 24.5rem;
+}

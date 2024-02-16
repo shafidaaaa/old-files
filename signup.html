@@ -1,0 +1,97 @@
+<html>
+    <head>
+        <title>Daftar</title>
+        <link rel="stylesheet" type="text/css" href="signup.css" />
+        <nav class="navigationbar" id="navigationbar">
+            <ul>
+                <li><a href="home.html">Beranda</a></li>
+                <li><a href="listbuku.html">Daftar Buku</a></li>
+                <li><a href="about us.html">Tentang</a></li>
+                <li><a href="contact us.html">Hubungi Kami</a></li>
+                <li><a href="login.html" id="loginnavigation">Masuk</a></li>
+                <li><a href="signup.html" id="signupnavigation">Daftar</a></li>
+            </ul>
+        </nav>
+    </head>
+    <body>
+        <img src="sketch1623798045651.png" name="bukumangkok" id="bukumangkok">
+        <section>
+            <h3>MENDAFTAR</h3>
+            <div class="formsignup" id="formsignup">
+            <hr/>
+                <form action="signup result.html" method="POST">
+                    <div>
+                        <label>Apa email anda?</label>
+                        <br/>
+                        <input type="email" name="email" id="email" placeholder="Email Anda" required>
+                        <br/>
+                    </div>
+                    <div>
+                        <br/>
+                        <label>Tulis kembali email anda</label>
+                        <br/>
+                        <input type="email" name="konfirmasiemail" id="konfirmasiemail" placeholder="Konfirmasi Email Anda" required>
+                        <br/>
+                    </div>
+                    <div>
+                        <br/>
+                        <label>Siapa nama anda?</label>
+                        <br/>
+                        <input type="text" name="nama" id="nama" placeholder="Nama Anda" required>
+                        <br/>
+                    </div>
+                    <div>
+                        <br/>
+                        <label>Bagaimana kami memanggil anda?</label>
+                        <br/>
+                        <input type="text" name="username" id="username" placeholder="Nama Pengguna" required>
+                        <br/>
+                    </div>
+                    <div>
+                        <br/>
+                        <label>Dimana anda tinggal?</label>
+                        <br/>
+                        <input type="text" name="alamat" id="alamat" placeholder="Alamat Anda" required>
+                        <br/>
+                    </div>
+                    <div>
+                        <br/>
+                        <label>Tanggal berapa anda lahir?</label>
+                        <br/>
+                        <input type="date" name="tanggallahir" id="tanggallahir" placeholder="Tanggal Lahir Anda" required>
+                        <br/>
+                    </div>
+                    <div>
+                        <br/>
+                        <label>Buatlah sebuah password</label>
+                        <br/>
+                        <input type="password" name="password" id="password" placeholder="Password Anda" required>
+                        <br/>
+                    </div>
+                    <div>
+                        <br/>
+                        <label>Tulis kembali password anda</label>
+                        <br/>
+                        <input type="password" name="konfirmasipassword" id="konfirmasipassword" placeholder="Konfirmasi Password Anda" required>
+                        <br/>
+                    </div>
+                    <div>
+                        <br/>
+                        <label>Apa jenis kelamin anda?</label>
+                        <br/>
+                        <input type="radio" name="jeniskelamin" id="jeniskelamin" value="Laki-laki">Laki-laki
+                        <input type="radio" name="jeniskelamin" id="jeniskelamin" value="Perempuan">Perempuan
+                    </div>
+                    <div>
+                        <br/>
+                        <br/>
+                        <input type="submit" value="Daftar" class="signupbutton" id="signupbutton">
+                    </div>
+                </form>
+            </div>
+            <div>
+                <p>Sudah Mempunyai Akun ? <a href="login.html"> Masuk</a></p>
+            </div>
+        </section>
+    </body>
+</html>

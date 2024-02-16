@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10in" height="16.6667in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10000 16667"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:83.3346;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:#373435;stroke-width:100}
+    .fil0 {fill:none}
+    .fil1 {fill:#373435}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <rect x="908" y="7082" width="1202" height="1416"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M908 8498l1202 0 0 -1416 -1202 0 0 1416z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <rect x="908" y="7082" width="1202" height="1416"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_255412176">
+   <g style="clip-path:url(#id0)">
+   </g>
+   <g style="clip-path:url(#id1)">
+    <image transform="matrix(1 0 0 1 -4091.66 164.709)" x="5000" y="6917" width="1202" height="1416" xlink:href="logo sosmed_Images\logo sosmed_ImgID1.png"/>
+   </g>
+   <g style="clip-path:url(#id2)">
+   </g>
+   <path class="fil0 str0" d="M1511 7151c324,16 575,291 559,615 -16,324 -291,575 -615,559 -107,-5 -206,-39 -290,-93l-25 3 -314 40 96 -360c-20,-65 -30,-134 -27,-206 16,-324 291,-575 615,-559z"/>
+  </g>
+  <g id="_255411576">
+   <rect class="fil0 str0" x="2903" y="7230" width="1227" height="1101" rx="167" ry="167"/>
+   <circle class="fil0 str0" cx="3512" cy="7797" r="241"/>
+   <circle class="fil1 str0" cx="3904" cy="7450" r="26"/>
+  </g>
+  <g id="_255422040">
+   <polygon class="fil1 str1" points="6322,7397 6093,7766 5864,8135 5534,7930 5779,7754 6173,7473 5722,7647 5325,7800 5078,7646 5700,7522 "/>
+   <path class="fil1 str1" d="M5525 7948c37,22 68,30 94,22 25,-9 49,-21 72,-35 24,-17 58,-41 59,-28 2,36 -13,50 -21,69 -14,10 -17,20 -17,-11 0,-11 -25,13 -46,40 -17,28 -30,49 -38,65 -8,15 -17,27 -25,39 -6,-10 -17,-18 -24,-29 -7,-11 -13,-24 -19,-37 -6,-14 -13,-28 -20,-42 -7,-15 -14,-31 -14,-52z"/>
+  </g>
+ </g>
+</svg>

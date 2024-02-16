@@ -1,0 +1,73 @@
+html {
+    background: url(bg3.jpg);
+    font-family: 'Yu Gothic';
+    background-size: cover;
+    background-repeat: none;
+}
+a {
+    color: rgb(228, 228, 228);
+    text-decoration: none;
+    font-size: 14px;
+    padding: 14px 10px;
+}
+ul {
+    padding: 14px;
+    text-align: center;
+}
+#loginnavigation {
+    margin-left: 50rem;
+    text-align: right;
+}
+#signupnavigation {
+    text-align: right;
+}
+li {
+    list-style: none;
+    display: inline;
+}
+#navigationbar {
+    height: 50px;
+}
+div {
+    align: left;
+    color: rgb(255, 255, 255);
+}
+section {
+    float: right;
+    padding: 3rem 3rem 3rem 3rem;
+    margin-right: 5rem;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+    background-color: rgba(27, 23, 70, 0.788);
+}
+input {
+    text-align: left;
+    border: none;
+    border-radius: 2px;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    width: 19rem;
+}
+#signupbutton {
+    text-align: center;
+    color: black;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+hr {
+    color:rgb(255, 255, 255);
+}
+#jeniskelamin {
+    width: 1rem;
+}
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#bukumangkok {
+    margin-top: 10rem;
+    margin-left: 5rem;
+    width: 768;
+    height: 576;
+    position: absolute;
+}
